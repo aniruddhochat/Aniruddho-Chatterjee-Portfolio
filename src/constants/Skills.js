@@ -7,7 +7,7 @@ import mongo from "../assets/mongo.svg";
 import express from "../assets/express.svg";
 import tailwind from "../assets/tailwind.svg";
 import linkedin from "../assets/linkedin.svg";
-import logo from "../assets/logo.svg";
+import logo from "../assets/logo.png";
 import githubsite from "../assets/githubsite.svg";
 import html from "../assets/html.svg";
 import css from "../assets/css.svg";

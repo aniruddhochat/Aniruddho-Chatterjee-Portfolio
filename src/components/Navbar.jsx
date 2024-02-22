@@ -37,10 +37,20 @@ const Navbar = () => {
                     className="min-w-[150px] cursor-pointer font-[600] sm:font-[800] text-lg sm:text-xl tracking-wide"
                 >
                     <span className="block sm:block">
-                        <img
-                            src="/src/assets/logo.png"
+                        {/* <img
+                            src="../assets/logo.png"
                             className="w-[60px] h-[60px] sm:w-[60px] sm:h-[60px]"
-                        />
+                        /> */}
+                        {Logo.map((image,i) =>{
+                            return (
+                                <img
+                                    src={image.img}
+                                    className="w-[60px] h-[60px] sm:w-[60px] sm:h-[60px]"
+                                />
+                            )
+                        }
+
+                        )}
                     </span>
                     {/* {Logo.map(
                         (skill, i) => {

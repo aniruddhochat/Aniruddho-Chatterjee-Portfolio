@@ -76,7 +76,7 @@ export const ProjectList = [
     },
     {
         id: 6,
-        name: "Blood Blood Bank Management System",
+        name: "Blood Bank Management System",
         description:
             "Successfully deployed a scalable and user-friendly web app using the Flask framework, revolutionizing blood bank operations to enhance access to vital blood resources.Established a real-time inventory management system including user registration, and appointment scheduling, resulting in a 20% reduction in blood retrieval response time while optimizing storage and distribution.",
         img: bloodlink,

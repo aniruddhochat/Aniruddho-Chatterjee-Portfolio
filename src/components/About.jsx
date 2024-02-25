@@ -83,7 +83,7 @@ const About = () => {
                         I am currently pursuing a Masters degree in Computer Science at Indiana University Bloomington.
                         <br />
                         <br />
-                        With a blend of academic excellence and corporate experience, I believe I possess the right skill set and understanding to solve complex business problems and help organizations meet critical deadlines. 
+                        With a blend of academic excellence and corporate experience, I possess the right skill set and understanding to solve complex business problems and help organizations meet critical deadlines. 
                         <br />
                         <br />
                         If you're looking for a versatile, results-driven professional, let's connect and explore how I can contribute to your team's success.

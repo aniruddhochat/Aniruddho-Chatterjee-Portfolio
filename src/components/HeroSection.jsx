@@ -92,7 +92,7 @@ const HeroSection = () => {
                         </p>
                         <div className="flex items-center gap-4 flex-col sm:flex-row ">
                             <a
-                                href="https://drive.google.com/file/d/1vB6QKgFLoDzsxBmv7cz3GB5kf9cpL4vZ/view?usp=sharing"
+                                href="https://drive.google.com/file/d/1whe1KbaBD8aWOojwd2mLg5MmQpces8o9/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="px-4 py-3 cursor-pointer w-full sm:w-fit rounded-full md:mr-4 bg-white hover:bg-gray-300 text-black text-lg font-[700] text-center hover:scale-[0.99] transition-all duration-400 ease-in-out "

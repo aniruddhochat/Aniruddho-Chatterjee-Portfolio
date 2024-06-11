@@ -80,7 +80,7 @@ const About = () => {
                     className="flex-1"
                 >
                     <p className="text-textWhite p-4 text-lg sm:text-xl sm:leading-7">
-                        I am currently pursuing a Masters degree in Computer Science at Indiana University Bloomington.
+                        I recently graduated with a Masters degree in Computer Science from Indiana University Bloomington.
                         <br />
                         <br />
                         With a blend of academic excellence and corporate experience, I possess the right skill set and understanding to solve complex business problems and help organizations meet critical deadlines. 
@@ -89,7 +89,7 @@ const About = () => {
                         If you're looking for a versatile, results-driven professional, let's connect and explore how I can contribute to your team's success.
                         <br/>
                         <br />
-                        I am actively looking for full-time opportunities starting May 2024.
+                        I am actively looking for full-time opportunities.
                     </p>
 
                     <div className="flex flex-row justify-start gap-6 pl-4">

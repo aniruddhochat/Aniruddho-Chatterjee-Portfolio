@@ -17,7 +17,7 @@ export const ExperienceList = [
     {
       company: "Indiana University Bloomington",
       title: "Database Coordinator",
-      years: "July 2023 - Present",
+      years: "July 2023 - May 2024",
       technologies: [
         {img:python,description:"Python"},
         {img:postgresql,description:"PostgreSQL"},
